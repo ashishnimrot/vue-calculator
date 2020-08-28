@@ -1,4 +1,7 @@
 # calculator
+<p align="center">
+    <img src="https://github.com/ashishnimrot/vue-calculator/blob/master/Calculator.png">
+</p>
 
 ## Project setup
 ```
